@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "31MD2LXLUZy8uFPUeo2rfa8A9CBV/WvUefr38D8BUB71JUT7GgfIYQstV5V/e4ltLl1XaBhLRmaeIgPkijwqoA==",
+  "success": true,
+  "projectFilePath": "D:\\APR_test_28.04.2021\\apr_test_28.04.2021\\VorlageMvvmCross-master\\Vorlage.Wpf\\Vorlage.Wpf.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Florian\\.nuget\\packages\\mvvmcross\\7.1.2\\mvvmcross.7.1.2.nupkg.sha512",
+    "C:\\Users\\Florian\\.nuget\\packages\\mvvmcross.platforms.wpf\\7.1.2\\mvvmcross.platforms.wpf.7.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

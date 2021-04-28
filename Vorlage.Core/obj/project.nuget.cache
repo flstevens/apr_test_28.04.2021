@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "M8sFxF+0Rmg2PESbM00WbjHwkcBLEklOUbwyPNBvt7ccMDOaD7POSeYJ7k8wPhO5Gv9H4q0J7tfLWmm4uEYpOg==",
+  "success": true,
+  "projectFilePath": "D:\\APR_test_28.04.2021\\apr_test_28.04.2021\\VorlageMvvmCross-master\\Vorlage.Core\\Vorlage.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Florian\\.nuget\\packages\\mvvmcross\\7.1.2\\mvvmcross.7.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

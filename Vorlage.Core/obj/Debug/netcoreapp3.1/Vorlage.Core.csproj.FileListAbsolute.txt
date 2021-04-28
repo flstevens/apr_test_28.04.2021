@@ -1,0 +1,9 @@
+D:\APR_test_28.04.2021\apr_test_28.04.2021\VorlageMvvmCross-master\Vorlage.Core\bin\Debug\netcoreapp3.1\Vorlage.Core.deps.json
+D:\APR_test_28.04.2021\apr_test_28.04.2021\VorlageMvvmCross-master\Vorlage.Core\bin\Debug\netcoreapp3.1\Vorlage.Core.dll
+D:\APR_test_28.04.2021\apr_test_28.04.2021\VorlageMvvmCross-master\Vorlage.Core\bin\Debug\netcoreapp3.1\Vorlage.Core.pdb
+D:\APR_test_28.04.2021\apr_test_28.04.2021\VorlageMvvmCross-master\Vorlage.Core\obj\Debug\netcoreapp3.1\Vorlage.Core.csprojAssemblyReference.cache
+D:\APR_test_28.04.2021\apr_test_28.04.2021\VorlageMvvmCross-master\Vorlage.Core\obj\Debug\netcoreapp3.1\Vorlage.Core.AssemblyInfoInputs.cache
+D:\APR_test_28.04.2021\apr_test_28.04.2021\VorlageMvvmCross-master\Vorlage.Core\obj\Debug\netcoreapp3.1\Vorlage.Core.AssemblyInfo.cs
+D:\APR_test_28.04.2021\apr_test_28.04.2021\VorlageMvvmCross-master\Vorlage.Core\obj\Debug\netcoreapp3.1\Vorlage.Core.csproj.CoreCompileInputs.cache
+D:\APR_test_28.04.2021\apr_test_28.04.2021\VorlageMvvmCross-master\Vorlage.Core\obj\Debug\netcoreapp3.1\Vorlage.Core.dll
+D:\APR_test_28.04.2021\apr_test_28.04.2021\VorlageMvvmCross-master\Vorlage.Core\obj\Debug\netcoreapp3.1\Vorlage.Core.pdb
